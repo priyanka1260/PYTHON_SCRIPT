@@ -3,7 +3,7 @@
 #Written by Shabnam Iyyani 
 #Date: 7 Sept 2017
 #Co-authors in the project:Vidushi Sharma and Priyanka Shahane
-#Last Edited by Priyanka        Date&Time 16/12/17  3.5.pm
+#Last Edited by Priyanka        Date&Time 16/12/17  03:05 pm
 #----------------------------------------------------------------------------------------------------------#
 import numpy as np
 import timeit
